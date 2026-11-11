@@ -39,6 +39,12 @@ I build small tools that do one job well: mostly for learning Japanese, staying 
 | **[ats-resume-checker](https://github.com/wmCmo/ats-resume-checker)** | NLP pipeline that masks personal information in résumés and scores them the way an ATS would |
 | **[fishtest-tv](https://github.com/wmCmo/fishtest-tv)** | Dashboard, across-the-room TV with AI commentary, and a phone remote for a Stockfish Fishtest worker |
 
+### 🧬 Experiments
+
+| | |
+|---|---|
+| **[Life Engine Lab](https://github.com/wmCmo/LifeEngine/tree/perf/sim-worker)** · [open ↗](https://wmcmo.github.io/LifeEngine/) | Is evolution going in circles? A 10–20× faster rebuild of Max Robinson's [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine), with real species, a growing family tree and 12 worlds side by side |
+
 ### 🎲 Just for fun
 
 | | |
